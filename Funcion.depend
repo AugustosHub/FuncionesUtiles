@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1699483140 source:c:\users\user\desktop\facultad\listas\funciones\main.c
+	<stdio.h>
+	<stdlib.h>
+	<wchar.h>
+	<locale.h>
+	<time.h>
+	<unistd.h>
+	<string.h>
+	<conio.h>
+
